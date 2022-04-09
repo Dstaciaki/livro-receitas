@@ -1,4 +1,4 @@
-#Strogonoff de Frango
+# Strogonoff de Frango
 
 ## **Ingredientes**
 
@@ -12,7 +12,7 @@
 ### - Champignon
 ### - Batata palha e arroz branco para acompanhar
 
-##Modo de Preparo
+## Modo de Preparo
 
 ### - Em uma panela acrescente o óleo e o caldo de galinha. Logo em seguida, coloque o frango picado em cubos e deixe cozinhar.
 ### - Assim que o frango estiver cozido, acrescente o molho de tomate, o ketchup, a mostarda e o champignon.
